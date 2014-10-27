@@ -8,7 +8,7 @@ Software Engineer at DigitalGlobe.
 
 ### More Information
 
-My primary languages are Ruby and Python. I am always on a quest to be a well rounded polyglot software developer.  Currently high on my target list is Golang.
+My desire is to be a well rounded polyglot developer. Currenlty m ptrongest languages are Ruby and Python. andhigh on my target list is Golang.
 
 I really enjoy working with geospatial data and imagery.
 
