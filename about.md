@@ -10,6 +10,8 @@ Software Engineer at DigitalGlobe.
 
 My primary languages are Ruby and Python. I am always on a quest to be a well rounded polyglot software developer.  Currently high on my target list is Golang.
 
+I really enjoy working with geospatial data and imagery.
+
 ### Contact me
 
 [kyle@feldh.us](mailto:kyle@feldhu.us)
