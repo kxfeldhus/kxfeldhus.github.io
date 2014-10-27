@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Software Engineer at DigitalGlobe.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+My primary languages are Ruby and Python. I am always on a quest to be a well rounded polyglot software developer.  Currently high on my target list is Golang.
 
 ### Contact me
 
