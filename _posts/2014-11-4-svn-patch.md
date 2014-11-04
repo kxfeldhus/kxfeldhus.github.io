@@ -7,8 +7,6 @@ Sometimes I find that I have been working in trunk for what was going to be a ve
 
 The 2 options are [svn switch](http://svnbook.red-bean.com/en/1.7/svn.ref.svn.c.switch.html) or [svn diff](http://svnbook.red-bean.com/en/1.7/svn.ref.svn.c.diff.html) + [patch](http://linux.die.net/man/1/patch)
 
-<!--more-->
-
 ### svn switch
 
 This allows you to point your working copy at a different remote 
@@ -41,6 +39,7 @@ I prefer to be as verbose as possible when moving code around, and so I like thi
 > svn commit -m 'Commit from trunk that should have been in new_branch'
 {% endhighlight %}
 
-
 -p0 ensures that the files you are applying to exist
 -i just tells it to take the patchfile.diff as input
+
+<!--more-->
