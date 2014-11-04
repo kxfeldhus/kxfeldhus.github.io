@@ -11,6 +11,13 @@ There are 2 options.
 
 This allows you to point your working copy at a different remote 
 
+{% highlight bash %}
+pwd > trunk
+svn mkdir http://local.svn.com/project/branches/new_branch
+svn switch http://local.svn.com/project/branches/new_branch
+svn commit -m 'Commit from trunk that should have been in new_branch'
+svn switch http://local.svn.com/project/trunk
+{% endhighlight %}
 
 You can even switch only specific sub directories of your project. Which I suppose could be handy.
 
