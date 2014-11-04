@@ -41,7 +41,7 @@ I prefer to be as verbose as possible when moving code around, and so I like thi
 > svn commit -m 'Commit from trunk that should have been in new_branch'
 {% endhighlight %}
 
--p0 ensures that the files you are applying to exist
--i just tells it to take the patchfile.diff as input
+"-p0" ensures that the files you are applying to exist
+"-i" just tells it to take the patchfile.diff as input
 
 <!--more-->
