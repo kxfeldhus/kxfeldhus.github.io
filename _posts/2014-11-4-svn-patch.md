@@ -5,7 +5,7 @@ title: Create and apply a patch from svn diff
 
 Sometimes I find that I have been working in trunk for what was going to be a very small change, and it has outgrown  that scope and belongs in its own branch.
 
-There are 2 options.
+The 2 options are [svn switch](http://svnbook.red-bean.com/en/1.7/svn.ref.svn.c.switch.html) or [svn diff](http://svnbook.red-bean.com/en/1.7/svn.ref.svn.c.diff.html) + [patch](http://linux.die.net/man/1/patch)
 
 ### svn switch
 
