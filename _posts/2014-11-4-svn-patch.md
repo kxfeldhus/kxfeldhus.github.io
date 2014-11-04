@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create and apply a patch from svn diff
+title: Move changes from one svn branch to another
 ---
 
 Sometimes I find that I have been working in trunk for what was going to be a very small change, and it has outgrown  that scope and belongs in its own branch.
