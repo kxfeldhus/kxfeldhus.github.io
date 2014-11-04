@@ -7,11 +7,11 @@ Sometimes I find that I have been working in trunk for what was going to be a ve
 
 There are 2 options.
 
-#### svn switch
+### svn switch
 
 This allows you to point your working copy at a different remote 
 
-{% highlight bash %}
+{% highlight console %}
 > pwd > trunk
 > svn mkdir http://local.svn.com/project/branches/new_branch
 > svn switch http://local.svn.com/project/branches/new_branch
@@ -23,11 +23,11 @@ You can even switch only specific sub directories of your project. Which I suppo
 
 My biggest fear is that if I forget to switch back, it could get confusing, so I rarely use this method.
  
-#### svn diff and patch
+### svn diff and patch
 
 I prefer to be as verbose as possible when moving code around, and so I like this method, although it's less elegant.
 
-{% highlight bash %}
+{% highlight console %}
 > pwd > trunk
 > svn diff file_with_changes_1 file_with_changes_2 > patchfile.diff
 > svn mkdir http://local.svn.com/project/branches/new_branch
