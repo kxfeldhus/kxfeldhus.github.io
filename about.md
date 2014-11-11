@@ -16,4 +16,4 @@ I believe in using established design patterns. I lean towards decoupled, clean 
 
 ### Contact me
 
-[kyle@feldh.us](mailto:kyle@feldhu.us)
+[kyle@feldh.us](mailto:kyle@feldh.us)
