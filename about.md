@@ -14,6 +14,4 @@ I love working on spatial applications, and therefore I am very proficient in Py
 
 I believe in using established design patterns. I lean towards decoupled, clean interfaces. I use TDD where it fits. I like working under Agile. I am not dogmatic about any methods or technologies.
 
-### Contact me
-
-[kyle@feldh.us](mailto:kyle@feldh.us)
+### Contact me using one of the methods below
