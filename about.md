@@ -10,6 +10,7 @@ Software Engineer at DigitalGlobe.
 
 I am a polyglot developer, but I am most productive with Ruby. I am just as comfortable with Ruby both in and outside of Rails and have developed many applications outside of the standard Ruby web stack.
 
+<br>
 
 I love working on spatial applications, and therefore I am proficient in Python and the associated spatial stack, Postgres + PostGIS, GDAL, OpenLayers, and others.
 
