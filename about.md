@@ -16,7 +16,7 @@ I believe in applying established design patterns to form elegant solutions to c
 
 <br>
 
-I love working on spatial applications, and therefore I am proficient in Python and the associated spatial stack, Postgres + PostGIS, GDAL, OpenLayers, and others.
+I enjoy working on spatial applications, and therefore I am proficient in Python and the associated spatial stack, Postgres + PostGIS, GDAL, OpenLayers, and others.
 
 <br>
 
