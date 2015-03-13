@@ -8,7 +8,7 @@ Software Engineer at DigitalGlobe.
 
 ### More Information
 
-I am a polyglot developer, but I am most productive with Ruby. I am just as comfortable with Ruby both in and outside of Rails and have developed many applications outside of the standard Ruby web stack.
+I am a polyglot developer. I enjoy working in many languages, but am most productive with Ruby and Python. I am comfortable with and without Rails and have developed many applications outside of the web stack.
 
 <br>
 
