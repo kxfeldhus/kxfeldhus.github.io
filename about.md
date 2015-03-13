@@ -20,6 +20,6 @@ I enjoy working on spatial applications, and therefore I am proficient in Python
 
 <br>
 
-I'm love learning and being enabled to pick the right tools for each solution.  Therefore, I've recently started a Java course, with the expectation of passing the Oracle Certified Professional Java SE 7 exam at completion.
+I'm love learning and being enabled to pick the right tools for each solution.  Currently, I am taking a Java course with the expectation of passing the Oracle Certified Professional Java SE 7 exam at completion.
 
 ### Contact me using one of the methods below
