@@ -30,6 +30,4 @@ Currently, I am taking a Java course with the expectation of passing the Oracle 
 
 <br>
 
-<p align="center">
-![Mia and Cooper]({{ site.url }}/images/mia_and_cooper.jpg)
-</p>
+![Mia and Cooper]({{ site.url }}/images/mia_and_cooper.jpg){.center-align}
