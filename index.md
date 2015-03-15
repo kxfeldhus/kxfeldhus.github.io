@@ -28,7 +28,7 @@ Currently, I am taking a Java course with the expectation of passing the Oracle 
 
 #### Contact me using one of the methods below
 
-##### Bonus photo of me and my dogs:
+<br>
 
 <p align="center">
 <img id="dog-pic" src="/images/mia_and_cooper.jpg" alt="Mia and Cooper">
