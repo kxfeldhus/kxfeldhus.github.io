@@ -8,11 +8,11 @@ Software Engineer at DigitalGlobe.
 
 ### More Information
 
-I am a polyglot developer. I enjoy working in many languages, but am most productive with Ruby and Python. I am comfortable with and without Rails and have developed many applications outside of the web stack.
+I am a polyglot developer most productive with Ruby and Python. I am comfortable with and without Rails and have also developed plenty of applications outside of the web stack.
 
 <br>
 
-I believe in applying established design patterns to form elegant solutions to complex problems, and lean towards decoupled, clean interfaces. I use TDD where it fits, like working under Agile, and am pragmatic about methods and technologies.
+I appreciate elegant solutions to complex problems through the use of software design patterns.  Simple, clean, and decoupled user and application interfaces are my preference. TDD and Agile both play a regular role in my daily work. I am pragmatic about all methods and technologies and love learning new things.
 
 <br>
 
