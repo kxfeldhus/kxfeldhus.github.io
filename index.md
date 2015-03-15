@@ -26,10 +26,10 @@ Currently, I am taking a Java course with the expectation of passing the Oracle 
 
 <br>
 
+#### Contact me using one of the methods below
+
 ##### Bonus photo of me and my dogs:
 
 <p align="center">
 <img id="dog-pic" src="/images/mia_and_cooper.jpg" alt="Mia and Cooper">
 </p>
-
-#### Contact me using one of the methods below
