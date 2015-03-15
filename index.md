@@ -26,4 +26,7 @@ Currently, I am taking a Java course with the expectation of passing the Oracle 
 
 <br>
 
+Bonus photo of me and my dogs:
+![Mia and Cooper]({{ site.url }}/images/mia_and_cooper.jpg)
+
 #### Contact me using one of the methods below
