@@ -8,11 +8,11 @@ Software Engineer at DigitalGlobe.
 
 ### More Information
 
-I am a polyglot developer most productive with Ruby and Python. I am comfortable with and without Rails and have also developed plenty of applications outside of the web stack.
+I am a polyglot developer most productive with Ruby and Python. I am very experienced with web applications using Rails and Sinatra, and also have developed plenty of applications that are not web apps.
 
 <br>
 
-I appreciate elegant solutions to complex problems through the use of software design patterns.  Simple, clean, and decoupled user and application interfaces are my preference. TDD and Agile both play a regular role in my daily work. I am pragmatic about all methods and technologies and love learning new things.
+I appreciate elegant solutions to complex problems through the use of software design patterns.  Simple, clean, decoupled user and application interfaces are what I strive for. TDD and Agile both play a regular role in my work. I am pragmatic about all methods and technologies and love learning new things.
 
 <br>
 
@@ -20,6 +20,7 @@ I enjoy working on spatial applications, and therefore I am proficient in Python
 
 <br>
 
-I'm love learning and being enabled to pick the right tools for each solution.  Currently, I am taking a Java course with the expectation of passing the Oracle Certified Professional Java SE 7 exam at completion.
+
+Currently, I am taking a Java course with the expectation of passing the Oracle Certified Professional Java SE 7 exam at completion.
 
 ### Contact me using one of the methods below
