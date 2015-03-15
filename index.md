@@ -6,6 +6,8 @@ permalink: /
 
 Software Engineer at DigitalGlobe.
 
+<br>
+
 ### More Information
 
 I am a polyglot developer most productive with Ruby and Python. I am very experienced with web applications using Rails and Sinatra, and also have developed plenty of applications that are not web apps.
