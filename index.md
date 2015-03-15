@@ -27,6 +27,6 @@ Currently, I am taking a Java course with the expectation of passing the Oracle 
 <br>
 
 Bonus photo of me and my dogs:
-<img src="https://dl.dropbox.com/s/1zqtie4cvaikkek/mia_and_cooper.jpg" alt="Mia and Cooper" style="width:50px;height:50px">
+<img src="mia_and_cooper.jpg" alt="Mia and Cooper" style="width:50px;height:50px">
 
 #### Contact me using one of the methods below
