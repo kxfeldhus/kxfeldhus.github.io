@@ -31,5 +31,5 @@ Currently, I am taking a Java course with the expectation of passing the Oracle 
 <br>
 
 <p align="center">
-<img id="dog-pic" src="/images/mia_and_cooper.jpg" alt="Mia and Cooper">
+![Mia and Cooper]({{ site.url }}/images/mia_and_cooper.jpg)
 </p>
