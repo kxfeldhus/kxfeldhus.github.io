@@ -22,4 +22,6 @@ I enjoy working on spatial applications, and therefore I am proficient in Python
 
 Currently, I am taking a Java course with the expectation of passing the Oracle Certified Professional Java SE 7 exam at completion.
 
-### Contact me using one of the methods below
+<br>
+
+#### Contact me using one of the methods below
