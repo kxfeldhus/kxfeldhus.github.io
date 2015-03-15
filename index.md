@@ -30,5 +30,5 @@ Currently, I am taking a Java course with the expectation of passing the Oracle 
 
 <br>
 
-{: .center-align}
+{: .center}
 ![Mia and Cooper]({{ site.url }}/images/mia_and_cooper.jpg)
