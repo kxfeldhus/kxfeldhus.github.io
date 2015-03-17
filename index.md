@@ -18,7 +18,7 @@ I appreciate elegant solutions to complex problems through the use of software d
 
 <br>
 
-I enjoy working on spatial applications, and therefore I am proficient in Python and the associated spatial stack, Postgres + PostGIS, GDAL, OpenLayers, and others.
+I enjoy working on spatial applications, and therefore I am proficient in Python and the associated spatial stack, PostgreSQL + PostGIS, GDAL, OpenLayers, and others.
 
 <br>
 
